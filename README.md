@@ -14,6 +14,6 @@ It has many pros :
 
 The development is ongoing, but the application couldn't be delivered in April. I still have some changes to do. I have also to review all the licenses in order to be sure I'm using it correctly. I have also to translate labels in French and English.
 
-A snapshot version will be delivered soon, but I can't give a date. But don't be afraid, I do all to make you happy.
+A snapshot version will be delivered soon, but I can't give a date. But don't be afraid, I'm doing all to make you happy.
 
 ![alt tag](http://img836.imageshack.us/img836/6506/jyv1.png)
