@@ -7,10 +7,10 @@ My hope is that Sopherim becomes the best free EPUB editor of the market in the 
 
 Features: 
 
-- Free and open source.
+- Free and open source (for the basic version).
 - Written in Java, with the GUI written almost completely in Java FX.
 - Strictly based on EPUB specifications
-- Can read and edit EPUB 2 and EPUB 3 easily.
+- Can read and edit EPUB 2 and EPUB 3.
 - Graphical user interface in French and English
 - Include epubcheck validator to validate your publication.
 - Avaible on Windows, Linux and Mac 0S.
@@ -18,15 +18,15 @@ Features:
 
 Requirements:
 
-To run Sopherim, you'll need to update your Java version to the last one (At this time, Java 8u40). This is necessary because I'm using last tools and controls provided by this Java version. 
+To run Sopherim, you will need to update your Java version to the last one (At this time, Java 8). This is necessary because SOpherim uses librariries and controls provided by this Java version. 
 
 Who am I : 
 
 I'm a young computer scientist. I love to develop softwares, most of the time in Java. I'm living in Belgium and I hope Sopherim will be the first of a long list of softwares I expect to develop in the future. 
 
-UPDATE 2015/05/15
+UPDATE 2015/07/10
 
-I'm happy to announce that a first version of Sopherim should be available in the middle of July 2015. The implementation is still ongoing but the main functionalities are ready.
+I'm sorry to announce the previous deadline (mid-July) cannot be met. I had some big bugs during the development and it took a lot of time to fix them. The bêta version should be available now in mid-September. Thanks for your patience and sorry for the inconvenience.
 
 First picture (French user interface)
 
