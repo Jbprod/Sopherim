@@ -18,7 +18,7 @@ Features:
 
 Requirements:
 
-To run Sopherim, you will need to update your Java version to the last one (At this time, Java 8). This is necessary because SOpherim uses librariries and controls provided by this Java version. 
+To run Sopherim, you'll need to update your Java version to the last one (At this time, Java 8). This is necessary because Sopherim uses librariries and controls provided by this Java version. 
 
 Who am I : 
 
