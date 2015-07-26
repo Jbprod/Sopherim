@@ -26,7 +26,7 @@ I'm a young computer scientist. I love to develop softwares, most of the time in
 
 UPDATE 2015/07/10
 
-I'm sorry to announce the previous deadline (mid-July) cannot be met. I had some big bugs during the development and it took a lot of time to fix them. The bêta version should be available now in mid-September. Thanks for your patience and sorry for the inconvenience.
+I'm sorry to announce the previous deadline (mid-July) cannot be met. I had some big bugs during the development and it took a lot of time to fix them. The bêta version should be available now in mid-December. Thanks for your patience and sorry for the inconvenience.
 
 First picture (French user interface)
 
